@@ -14,32 +14,32 @@ Co určitě vědět? Níže jsou po jednotlivých skupinách rozebrány ty nejz�
 
 <details><summary>
 
-## KEKOREKTUŘE Pro úřady
+## Pro úřady
 
 </summary>
 
 Nejzásadnější poučky
 
-1. Jsme tu pro klienty a ne naopak. Tomu musíme podřídit veškeré své konání.
-1. Jsme vázáni velkým množstvím regulací a ty musíme vždy respektovat. Platí, že děláme jen to a jen tak, jak nám ukládá legislativy, to vychází přímo z ústavního rámce.
-1. Kromě konkrétních povinností a konkrétních zmocnění v jednotlivých tzv. agendových zákonech, máme také obecné povinnosti vycházející ze zákonů a tedy se nemůžeme omezovat jen na to co víme ze svých agendových zákonů.
-1. V této době na nás tvrdě dopadne, pokud jsme oblast digitalizace ignorovali, nebo ji nedělali správně. Na to se musíme připravit.
-1. Všechno u nás začíná a končí naší informační koncepcí. Pokud jí nemáme, všechno děláme nezákonně. Pokud jí máme, musíme ji udržovat jako primární koncepci pro rozvoj ICT prostředků a aktivit které jimi děláme. IK je nejdůležitějším dokumentem k digitalizaci v úřadu.
-1. Nemůžeme si v ICT už dělat co chceme, aniž by na nás bylo vidět. Jsou zavedené mechanismy veřejné i odborné kontroly a to zejména nutností schvalování záměrů a projektů ICT ze strany Odboru hlavního architekta.
+1. Jsme tu pro klienty, nikoliv naopak. Tomu musíme podřídit veškeré své konání.
+2. Jsme vázáni velkým množstvím regulací a ty musíme vždy respektovat. Platí, že děláme jen to a jen tak, jak nám ukládá legislativa, to vychází přímo z ústavního rámce.
+3. Kromě konkrétních povinností a konkrétních zmocnění v jednotlivých tzv. agendových zákonech, máme také obecné povinnosti vycházející ze zákonů, a tak se nemůžeme omezovat jen na to, co víme ze svých agendových zákonů.
+4. V této době na nás tvrdě dopadne, pokud jsme oblast digitalizace ignorovali, nebo ji nedělali správně. Na to se musíme připravit.
+5. Všechno u nás začíná a končí naší informační koncepcí. Pokud ji nemáme, všechno děláme nezákonně. Pokud ji máme, musíme ji udržovat jako primární koncepci pro rozvoj ICT prostředků a aktivit, které jimi děláme. Informační koncepce je nejdůležitějším dokumentem k digitalizaci v úřadu.
+6. Nemůžeme si v ICT už dělat, co chceme, aniž by na nás nebylo vidět. Jsou zavedené mechanismy veřejné i odborné kontroly, a to zejména nutností schvalování záměrů a projektů ICT ze strany Odboru hlavního architekta.
 
-Úřady musí zejména mít vlastní informační koncepci, která musí splňovat všechny požadavky a náležitosti a musí být pravidelně aktualizována a úřad jí pravidelně vyhodnocuje.
+Úřady musí zejména mít vlastní informační koncepci, která musí splňovat všechny požadavky a náležitosti a musí být pravidelně aktualizována a úřad ji pravidelně vyhodnocuje.
 
 ![EG přehled - z pohledu úřadu, Zdroj: Národní architektonický plán - OHA MVČR](https://archi.gov.cz/_media/nap-dokument:egov_4_prehled_klient_ur.png)
 
 
 Klíčové role v úřadu:
 
-- Vedoucí / manažer: Musí obecně znát co má úřad dělat a jak přistupovat k digitalizaci, jaké má obecné povinnosti a musí vědět, kdo je zodpovědný v úřadu za jednotlivé procesy a činnosti.
-- Legislativní odborník: Musí dobře znát nejen svoji legislativu týkající se odborných činností úřadu, ale také obecnou legislativu, včetně eGovernmentu. Měl by být schopen sledovat i připravovanou legislativu a řídit procesy adaptace nových předpisů. Musí také umět správně psát kvalitní a moderní legislativu. A také vnitřní předpisy a metodiky.
+- Vedoucí / manažer: Musí obecně znát, co má úřad dělat a jak přistupovat k digitalizaci, jaké má obecné povinnosti a musí vědět, kdo je zodpovědný v úřadu za jednotlivé procesy a činnosti.
+- Legislativní odborník: Musí dobře znát nejen svoji legislativu týkající se odborných činností úřadu, ale také obecnou legislativu, a to včetně eGovernmentu. Měl by být schopen sledovat i připravovanou legislativu a řídit procesy adaptace nových předpisů. Musí také umět správně psát kvalitní a moderní legislativu a také vnitřní předpisy a metodiky.
 - Architekt: Musí být schopen vytvářet a udržovat architekturu úřadu a dílčí architektury, musí být součástí rozhodovacího stromu a musí být schopen poskytnout znalosti z architektury pro efektivizaci úřadu a jeho procesů.
-- Věcný gestor: Musí znát EG aspekty své oblasti/oboru a umět povinné věci z digitalizace aplikovat ve svých procesech, při získávání a poskytování údajů, apod.
-- Manažer ICT: Musí vědět co a jak provozovat a být schopen nabízet interní služby ICT, správa a provoz informačních systémů, infrastruktury, apod.
-- Manažer kybernetické bezpečnosti: Musí umět své povinnosti a procesy a společně opravdu výkonně řídit kybernetickou bezpečnost a navrhovat a vyhodnocovat konkrétní opatření, včetně bezpečnostní architektury.
+- Věcný gestor: Musí znát EG aspekty své oblasti/oboru a umět povinné věci z digitalizace aplikovat ve svých procesech, při získávání a poskytování údajů apod.
+- Manažer ICT: Musí vědět, co a jak provozovat, a být schopen nabízet interní služby ICT, správa a provoz informačních systémů, infrastruktury apod.
+- Manažer kybernetické bezpečnosti: Musí umět své povinnosti a procesy a společně opravdu výkonně řídit kybernetickou bezpečnost a navrhovat a vyhodnocovat konkrétní opatření, a to včetně bezpečnostní architektury.
 
 Důležité odkazy:
 
@@ -76,11 +76,11 @@ Důležité odkazy:
 
 </details>
 
-Jeden z důvodů proč vznikl projekt EGOVedu je právě zlepšení výuky a vzdělávání v oblasti veřejné správy.
+Jeden z důvodů, proč vznikl projekt EGOVedu, je právě zlepšení výuky a vzdělávání v oblasti veřejné správy.
 
-Nejzásadnější poučky
+Nejzásadnější poučky:
 
 1. Pokud učíte podle několik let starých učebnic a skript, učíte špatně a můžete je rovnou zahodit, nebo alespoň významně aktualizovat.
-1. Veřejná správa má sice co se týče ICT trochu víc regulací a specifické požadavky, ale s obecným ICT vzděláváním se to spojit dá.
+2. Veřejná správa má sice, co se týče ICT, trochu víc regulací a specifické požadavky, ale s obecným ICT vzděláváním se to spojit dá.
 
 
